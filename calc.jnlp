@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+" codebase="file:///C:\jnlp" href="calc.jnlp">
+<jnlp spec="1.0+" codebase="https://github.com/SomeoneAlt-86/jnlp/raw/refs/heads/main/" href="calc.jnlp">
     <information>
         <title>Launch Calculator</title>
         <vendor>My Company</vendor>

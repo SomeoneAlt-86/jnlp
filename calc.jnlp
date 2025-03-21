@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="file:///C:\jnlp" href="calc.jnlp">
+    <information>
+        <title>Launch Calculator</title>
+        <vendor>My Company</vendor>
+        <description>Opens Windows Calculator</description>
+        <offline-allowed/>
+    </information>
+
+    <resources>
+        <j2se version="1.8+"/>
+                <jar href="CalcLauncher_signed.jar"
+                    main="true"/>
+    </resources>
+
+    <application-desc main-class="CalcLauncher"/>
+
+    <security>
+        <all-permissions/>
+    </security>
+</jnlp>

